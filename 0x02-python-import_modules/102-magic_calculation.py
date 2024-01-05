@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def magic_calculation(a, b)
+def magic_calculation(a, b):
     """Matches the bytecode provided by Holberton School."""
     from magic_calculation_102 import add, sub
 
