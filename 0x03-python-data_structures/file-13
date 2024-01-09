@@ -3,14 +3,14 @@
 #include <stdio.h>
 
 /**
-*add_nodeint - this func will add new node to beginning of list
-*
-*@head: this is the head of the listint_t
-*
-*@n: placeholder for int to be added in listint_t
-*
-*Return: address of added element upon success, and  NULL upon failure
-*/
+ *add_nodeint - this func will add new node to beginning of list
+ *
+ *@head: this is the head of the listint_t
+ *
+ *@n: placeholder for int to be added in listint_t
+ *
+ *Return: address of added element upon success, and  NULL upon failure
+ */
 
 listint_t *add_nodeint(listint_t **head, const int n)
 {
