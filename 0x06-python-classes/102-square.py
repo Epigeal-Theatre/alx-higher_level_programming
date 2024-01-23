@@ -2,6 +2,7 @@
 """Square class defination"""
 
 
+
 class Square:
     """square body"""
 
