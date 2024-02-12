@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Save argument to a file."""
+"""This module adds all arguments to a Python list and save them to a file."""
+
+
 import sys
 
 if __name__ == "__main__":
